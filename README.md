@@ -1,5 +1,5 @@
-# Ynx Client Cheats
+# Ynx Cheats
 
-This Is Where I Post My Mod Menus
-
-Discord:discord.gg/2UUYmNFwgb
+   **Contact Ynx**
+ 
+ [I'm an inline-style link with title](https://discord.gg/2UUYmNFwgb "Discord")
