@@ -13,7 +13,7 @@
 
 | Mod Menus     | Version       |Is Skiddable|
 | ------------- |:-------------:| -----:|
-| [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  | V.0           | Y/N   |
+| [Nova Menu](https://cdn.discordapp.com/attachments/1068640630219223131/1079437055802757170/Monke_Troll_Menu_Protected.dll "")  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
