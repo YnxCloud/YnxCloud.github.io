@@ -13,7 +13,7 @@
 
 | Mod Menus     | Version       |Is Skiddable|
 | ------------- |:-------------:| -----:|
-| Not Here Yet  | V.0           | Y/N   |
+| [I'm an inline-style link with title](https://www.google.com "Google's Homepage")  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
