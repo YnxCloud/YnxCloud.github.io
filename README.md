@@ -1,4 +1,4 @@
-_Menus For Gtag_
+## Gtag mod menus
 
 | Mod Menus     | Version       |Is Skiddable|
 | ------------- |:-------------:| -----:|
@@ -9,4 +9,4 @@ _Menus For Gtag_
 | Moon Mod Menu | idk           | y     |
 
 
-## The Menus
+
