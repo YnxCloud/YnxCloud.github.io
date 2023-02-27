@@ -1,4 +1,4 @@
-*Menus For Gtag*
+_Menus For Gtag_
 
 | Mod Menus     | Version       |Is Skiddable|
 | ------------- |:-------------:| -----:|
