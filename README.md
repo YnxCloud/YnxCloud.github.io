@@ -13,8 +13,8 @@
 
 | Mod Menus     | Version       |Is Skiddable|
 | ------------- |:-------------:| -----:|
-| [Nova Menu](https://cdn.discordapp.com/attachments/1068640630219223131/1079437055802757170/Monke_Troll_Menu_Protected.dll "")  |GUI|N|
-| Not Here Yet  | V.0           | Y/N   |
+| [Nova Menu]   |GUI            |N      |
+| Lean X L_0    | Don't Know    |Y      |
 | Not Here Yet  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
 | Not Here Yet  | V.0           | Y/N   |
